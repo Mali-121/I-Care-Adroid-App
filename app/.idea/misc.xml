@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mali1/AndroidStudioProjects/I_Care/app/src/main/res/drawable/bmi_button_bg.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/mali1/AndroidStudioProjects/I_Care/app/src/main/res/drawable/button_background.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/mali1/AndroidStudioProjects/I_Care/app/src/main/res/drawable/edit_bmi_bg.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/mali1/AndroidStudioProjects/I_Care/app/src/main/res/layout/activity_bmi.xml" value="0.264" />
+        <entry key="..\:/Users/mali1/AndroidStudioProjects/I_Care/app/src/main/res/layout/activity_build1.xml" value="0.4" />
+        <entry key="..\:/Users/mali1/AndroidStudioProjects/I_Care/app/src/main/res/layout/activity_build2.xml" value="0.264" />
+        <entry key="..\:/Users/mali1/AndroidStudioProjects/I_Care/app/src/main/res/layout/activity_build3.xml" value="0.2" />
+        <entry key="..\:/Users/mali1/AndroidStudioProjects/I_Care/app/src/main/res/layout/activity_build_selection.xml" value="0.264" />
+        <entry key="..\:/Users/mali1/AndroidStudioProjects/I_Care/app/src/main/res/layout/activity_calories_calculator.xml" value="0.21422101449275363" />
+        <entry key="..\:/Users/mali1/AndroidStudioProjects/I_Care/app/src/main/res/layout/activity_interface_user.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/mali1/AndroidStudioProjects/I_Care/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/mali1/AndroidStudioProjects/I_Care/app/src/main/res/layout/activity_user_interface.xml" value="0.259375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
